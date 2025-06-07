@@ -1,4 +1,5 @@
 ### Hi there, It's Varnaja Uthayaraj 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+👋+It's+Varnaja+Uthayraj;Computer+Engineering+%26+Student)
 
 **Computer Engineering Undergraduate | Aspiring Quantum & Cybersecurity Researcher**
 
