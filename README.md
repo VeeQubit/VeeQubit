@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Varnaja+Uthayaraj;Computer+Engineering+%26+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Varnaja+Uthayaraj;Computer+Engineering+Undergraduate)
 
 
 
