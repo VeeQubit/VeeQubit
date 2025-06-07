@@ -2,7 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Varnaja+Uthayaraj;Computer+Engineering+Undergraduate)
 
 
-
 **Computer Engineering Undergraduate | Aspiring Quantum & Cybersecurity Researcher**
 
 
@@ -15,10 +14,15 @@
 
   ### 🌐 Connect with me
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/varnaja01)
+
+ - ### 🛠 Languages and Tools:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
   
- ### 🛠 Languages and Tools
- - ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
- - ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=blue)
- - ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
- - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white)
- - ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)
